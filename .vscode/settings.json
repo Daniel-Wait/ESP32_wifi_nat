@@ -1,0 +1,41 @@
+{
+    "idf.adapterTargetName": "esp32",
+    "idf.openOcdConfigs": [
+        "board/esp32-wrover-kit-3.3v.cfg"
+    ],
+    "idf.portWin": "COM5",
+    "files.associations": {
+        "string.h": "c",
+        "esp_mac.h": "c",
+        "task.h": "c",
+        "bit": "c",
+        "compare": "c",
+        "cstddef": "c",
+        "limits": "c",
+        "memory": "c",
+        "type_traits": "c",
+        "vector": "c",
+        "xhash": "c",
+        "xmemory": "c",
+        "xstring": "c",
+        "xutility": "c",
+        "locale": "c",
+        "thread": "c",
+        "xlocale": "c",
+        "xlocmes": "c",
+        "xlocmon": "c",
+        "xlocnum": "c",
+        "xloctime": "c",
+        "event_groups.h": "c",
+        "err.h": "c",
+        "esp_wifi.h": "c",
+        "freertos.h": "c",
+        "sys.h": "c",
+        "netif.h": "c",
+        "lwip_napt.h": "c",
+        "nvs_flash.h": "c",
+        "esp_log.h": "c",
+        "apsta_nat.h": "c"
+    },
+    "idf.flashType": "UART"
+}
